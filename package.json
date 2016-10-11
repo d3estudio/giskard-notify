@@ -1,0 +1,16 @@
+{
+  "name": "giskard-notify",
+  "version": "0.0.1",
+  "description": "Add notification capabilities to Giskard",
+  "main": "src/giskardnotify.js",
+  "author": "Victor Gama <hey@vito.io>",
+  "contributors": [],
+  "license": "MIT",
+  "giskard": {
+    "module": "GiskardNotify",
+    "created": "Tue Oct 11 2016 13:02:26 GMT-0300 (BRT)",
+    "help": {
+    }
+  },
+  "dependencies": {}
+}
